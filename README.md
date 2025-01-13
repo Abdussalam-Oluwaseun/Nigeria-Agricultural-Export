@@ -17,7 +17,8 @@
 * PowerBi
 
 ## Data Cleaning and Preparation
-Completed the Data cleaning and transformation in excel by removing duplicates and inconsistent data
+Completed the Data cleaning and transformation in excel by removing duplicates and inconsistent 
+
 ![image](https://github.com/user-attachments/assets/b3725245-c932-45f7-bd70-4ef706e0eb2c)
 
 ## Exploratory Data Analysis
@@ -29,6 +30,7 @@ Completed the Data cleaning and transformation in excel by removing duplicates a
 
 ## Modelling
 After the dataset was cleaned and transformed, it was loaded into Microsoft Power BI Desktop for modeling.
+
 ![export 5](https://github.com/user-attachments/assets/efade14e-053f-4381-8707-6f5a5e573043)
 
 ## Data Analysis
@@ -57,8 +59,11 @@ unit sold 2023 = CALCULATE(
 
 ## Visualization
 visualization of data potraying cost analysis, different export company and state performance and timeline analysis
+
 ![export 4](https://github.com/user-attachments/assets/092e98e2-c2e9-495d-bcb0-4ccafbaa1925)
+
 ![export 1](https://github.com/user-attachments/assets/49e01e0c-3ed2-453f-a304-37fe4063be12)
+
 [Dashboard Report](https://app.powerbi.com/view?r=eyJrIjoiMmNiZjgyNjctYTc4YS00OWIzLWE2MDEtYzM2ZDJiYTRjZWRlIiwidCI6IjI2MTRhZTljLTQ2MmUtNDMyMi05MGE4LWRkMmNkYzYyM2ZjNiJ9)
 
 ## Analysis Report and insight
