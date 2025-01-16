@@ -1,9 +1,9 @@
 # Nigeria-Agricultural-Export-Analysis
 
-## Problem Statement
-  This project examines the sales performance, cost analysis, geographic distribution, and performance comparison of Nigeria's agricultural exports
-  
 ## Table of Content
+
+* [Problem statement](#problem-statement)
+* [Data Source](#data-source)
 * [Tools](#tools)
 * [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 * [Exploratory Data Analysis](#exploratory-data-analysis)
@@ -12,6 +12,14 @@
 * [Visualization](#visualization)
 * [Analysis Report and insight](#analysis-report-and-insight)
 
+## Problem Statement
+  This project examines the sales performance, cost analysis, geographic distribution, and performance comparison of Nigeria's agricultural exports
+
+## Data Source
+the dataset was shared to me by Favour Ewoh as a test data 
+
+[dataset](https://drive.google.com/drive/folders/19xbgIh5LG-ANWNY7H7-y1CjugS7No4aC?usp=drive_link)
+
 ## Tools
 * Execel
 * PowerBi
@@ -19,7 +27,8 @@
 ## Data Cleaning and Preparation
 Completed the Data cleaning and transformation in excel by removing duplicates and inconsistent 
 
-![image](https://github.com/user-attachments/assets/b3725245-c932-45f7-bd70-4ef706e0eb2c)
+![image](https://github.com/user-attachments/assets/a4d817e7-3108-4cc5-8187-a2a44804fe37)
+
 
 ## Exploratory Data Analysis
 * What are the top-selling products?
@@ -31,7 +40,8 @@ Completed the Data cleaning and transformation in excel by removing duplicates a
 ## Modelling
 After the dataset was cleaned and transformed, it was loaded into Microsoft Power BI Desktop for modeling.
 
-![export 5](https://github.com/user-attachments/assets/efade14e-053f-4381-8707-6f5a5e573043)
+![export 5](https://github.com/user-attachments/assets/9abdea8f-e347-418b-b2ca-0345b552d4b2)
+
 
 ## Data Analysis
 Measures created for analysis 
@@ -60,9 +70,9 @@ unit sold 2023 = CALCULATE(
 ## Visualization
 visualization of data potraying cost analysis, different export company and state performance and timeline analysis
 
-![export 4](https://github.com/user-attachments/assets/092e98e2-c2e9-495d-bcb0-4ccafbaa1925)
+![export 4](https://github.com/user-attachments/assets/f4a6f0ef-332d-4493-b657-13ffd363f4e8)
 
-![export 1](https://github.com/user-attachments/assets/49e01e0c-3ed2-453f-a304-37fe4063be12)
+![export 1](https://github.com/user-attachments/assets/3a8f208e-1085-4226-acf1-024f44b16ff6)
 
 [Dashboard Report](https://app.powerbi.com/view?r=eyJrIjoiMmNiZjgyNjctYTc4YS00OWIzLWE2MDEtYzM2ZDJiYTRjZWRlIiwidCI6IjI2MTRhZTljLTQ2MmUtNDMyMi05MGE4LWRkMmNkYzYyM2ZjNiJ9)
 
